@@ -1,15 +1,15 @@
 /** Central place for site copy and external URLs — swap values as the site grows */
 export const siteConfig = {
   name: 'Gregory Boyd',
-  role: 'Software Engineer',
+  role: 'Pilot & Self-Taught Developer',
   tagline:
-    'Building scalable, efficient, and user-friendly software solutions.',
+    'From the cockpit to the codebase: exploring software one project at a time.',
   bio: [
-    'I work at the edge of design systems and application code — mostly React, sometimes whatever gets the job done cleanly.',
-    'This site is a starter template: swap the copy, wire your real links, and add routes when you need more than one page.',
+    'After years in the cockpit as a Navy and U.S. Customs and Border Protection pilot, I found a second passion in software — the same problem-solving mindset, just a different kind of machine.',
+    "I'm a hobbyist developer working in Swift, React, CSS, and VBA. I've shipped two iOS apps: one built for pilots, and another for Humane Society volunteers who walk shelter dogs. I build to keep learning and to make useful things for the communities I care about.",
   ],
   location: 'Jacksonville, FL',
-  nowReading: 'The Design of Everyday Things',
+  nowReading: 'Behind the Yellow Visor',
   githubUrl: 'https://github.com/JaxTurboNerd',
   linkedinUrl: 'https://www.linkedin.com/in/gregory-boyd-429a56207/',
   email: '',
