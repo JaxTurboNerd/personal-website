@@ -7,7 +7,7 @@ const SiteFooter = () => {
     <footer className="site-footer" id="contact">
       <div className="site-footer__inner">
         <p className="site-footer__meta">
-          © {year} {siteConfig.name}. Starter template — add pages and real links when you are ready.
+          © {year} {siteConfig.name}.
         </p>
         <div className="site-footer__links">
           <a className="site-footer__link" href={`mailto:${siteConfig.email}`}>
